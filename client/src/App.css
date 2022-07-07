@@ -1,0 +1,30 @@
+main {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  background-color: #add8e6;
+}
+
+.content {
+  width: 50%;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+}
+
+.form-page {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 200px;
+}
+
+.search-page {
+  width: 70%;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}

@@ -1,0 +1,66 @@
+.createpage {
+  background-color: #323232;
+  padding: 50px;
+  color: white;
+  width: 400px;
+  border-radius: 20px;
+}
+
+.player-details {
+  width: 400px;
+  background-color: #323232;
+  padding: 50px;
+  color: white;
+  width: 400px;
+  border-radius: 20px;
+}
+
+.boxMenu {
+  color: white;
+  background-color: #323232;
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  width: 150px;
+  height: 150px;
+  border-radius: 15px;
+  transition: transform 0.3s;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+
+.boxMenu:hover {
+  transform: scale(1.1);
+}
+
+.search-container {
+  background-color: #323232;
+  padding: 50px;
+  color: white;
+  border-radius: 20px;
+}
+
+.search-form {
+  display: flex;
+  background-color: #323232;
+  color: white;
+  width: 700px;
+  border-radius: 20px;
+}
+
+.search-details {
+  background-color: #323232;
+  padding-top: 50px;
+  color: white;
+  border-radius: 20px;
+}
+
+.back-button {
+  background-color: Transparent;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+}
